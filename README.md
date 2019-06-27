@@ -10,3 +10,7 @@ There are two versions of this app: **Basic Search** and **Advanced Search**. Th
 ### Basic Search
 ![alt text](https://github.com/kevinch0810zxc/Twitter-Keyword/blob/master/basic1.png)
 ![alt text](https://github.com/kevinch0810zxc/Twitter-Keyword/blob/master/basic2.png)
+
+### Advanced Search
+![alt text](https://github.com/kevinch0810zxc/Twitter-Keyword/blob/master/advanced1.png)
+![alt text](https://github.com/kevinch0810zxc/Twitter-Keyword/blob/master/advanced2.png)
