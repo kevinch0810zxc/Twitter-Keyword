@@ -1,4 +1,4 @@
-# Twitter Keyword Search and Sentiment Analysis ShinyApp
+# Twitter Bag-of-Word Analysis with ShinyApp
 
 To use the app, click [here](https://kevinch0810zxc.shinyapps.io/TwitteR/)
 
